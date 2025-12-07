@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天才になれなかったので",
+  "base_artist": "荒巻勇仁",
+  "createdAt": "2025-12-07T12:17:49.068876Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天才になれなかったので",
+      "artist": "荒巻勇仁",
+      "has_synced": false,
+      "path": "select/pl_01_天才になれなかったので_荒巻勇仁.txt"
+    }
+  ]
+}
